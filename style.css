@@ -1,0 +1,57 @@
+body{ 
+    font: 20px arial sans-serif;
+}
+
+.navbar{
+    background-color: #f5d4ff;
+}
+
+.somostime{
+    color: #00538a;
+    font-size: 55px;
+    padding-top: 10px;
+}
+
+.quem_somos{
+    background-color: #8ad0ff;
+    color: #2E86C1;
+}
+
+.margin{
+    color: #1f7dc5;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+.imgbombomPRINCIPAL{
+    width: 40%;
+    height: 40%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.parceiros{
+    background-color: #fee4ff;
+}
+
+p{
+    color: black;
+    font-style: arial;
+    margin-top: 20px;
+    margin-bottom: bottom 10px;
+}
+
+.serviços{
+    background-color: #8ad0ff;
+}
+
+.contatos{
+    background-color:  #fee4ff;
+   
+
+}
+.bg-footer{
+    background-color:  #a9ddff;
+    color: black;
+    
+}
